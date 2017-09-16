@@ -7,7 +7,7 @@ import ButtonFBLike from 'components/buttonFBLike';
 import ButtonGPlusLike from 'components/buttonGPlusLike';
 
 /**
- * @name shareThis
+ * @name ShareThis
  * @example
  * <shareThis />
  *
