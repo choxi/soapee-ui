@@ -6,6 +6,12 @@ import { TwitterButton, PinterestButton, RedditButton, TwitterCount, PinterestCo
 import ButtonFBLike from 'components/buttonFBLike';
 import ButtonGPlusLike from 'components/buttonGPlusLike';
 
+/**
+ * @name shareThis
+ * @example
+ * <shareThis />
+ *
+ */
 export default React.createClass( {
     render() {
         let url = config.homeUrl;
