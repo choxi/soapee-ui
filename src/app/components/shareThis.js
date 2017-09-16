@@ -9,7 +9,7 @@ import ButtonGPlusLike from 'components/buttonGPlusLike';
 /**
  * @name ShareThis
  * @example
- * <shareThis />
+ * <ShareThis />
  *
  */
 export default React.createClass( {
