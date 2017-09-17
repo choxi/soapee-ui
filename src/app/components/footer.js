@@ -2,6 +2,12 @@ import React from 'react';
 
 import ShareThis from 'components/shareThis';
 
+/**
+ *  @name Footer
+ *
+ *  @example
+ *  <Footer />
+ */
 export default React.createClass( {
 
     shouldComponentUpdate() {
